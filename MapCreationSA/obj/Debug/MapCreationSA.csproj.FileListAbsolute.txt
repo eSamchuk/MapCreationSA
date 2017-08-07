@@ -1,0 +1,14 @@
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\MapCreationSA.exe.config
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\Interop.Surfer.dll
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.csproj.ResolveComReference.cache
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.makeMap.resources
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.Properties.Resources.resources
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.csproj.GenerateResource.Cache
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\MapCreationSA.exe
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\MapCreationSA.pdb
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\Microsoft.Research.Science.Data.dll
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\Microsoft.Ccr.Core.dll
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\bin\Debug\Microsoft.Research.Science.Data.xml
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.exe
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.pdb
+C:\Users\Shadow\Documents\Visual Studio 2015\Projects\MapCreationSA\MapCreationSA\obj\Debug\MapCreationSA.csprojResolveAssemblyReference.cache
