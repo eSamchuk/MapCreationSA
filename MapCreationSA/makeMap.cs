@@ -2340,6 +2340,7 @@ namespace MapCreationSA
             else  time = ds.GetData<Double[]>(4);
             int Tbound = time.Length;
             ii = Tbound;
+            ii = Tbound;
 
             if (comboBox1.SelectedIndex == 0 || comboBox1.SelectedIndex == 3) { ii /= 4; }
 
